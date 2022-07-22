@@ -1,4 +1,12 @@
 body {
-   background-image: linear-gradient(to bottom left, #2977d0, #59a7db)
+   background-image: linear-gradient(to bottom left, #08468e, #59a7db)
 }
     
+/* main */
+.main {
+   display: flex;
+}
+
+.navigation-list {
+   display: flex;
+}
