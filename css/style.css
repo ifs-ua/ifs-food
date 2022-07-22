@@ -1,12 +1,56 @@
-body {
-   background-image: linear-gradient(to bottom left, #08468e, #59a7db)
-}
-    
-/* main */
-.main {
-   display: flex;
+/* body */
+
+.body {
+   background-color: brown;
 }
 
+/* heder */
+
+/* note */
+
+/* Logoname */
+.logo-name {
+   display: flex;
+   flex-direction: row;
+  
+}
+/* logo */
+
+.logo {
+   background-color: rgb(168, 252, 252);
+   margin-top: 50px;
+   margin-right: 50px;
+   margin-bottom: 50px;
+   margin-left: 50px;
+}
+/* name */
+.name {
+   background-color: rgb(247, 209, 153);
+   margin-top: 50px;
+   margin-right: 50px;
+   margin-bottom: 50px;
+   margin-left: 50px;
+}
+/* nav-main */
 .navigation-list {
    display: flex;
+   flex-direction: row;
+   margin: 50;
+   background-color: rgb(74, 191, 117);
+   
 }
+
+
+    
+/* main */
+
+/* main text */
+
+/* main ref */
+
+
+/* footer */
+
+
+
+
